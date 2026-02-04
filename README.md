@@ -54,7 +54,7 @@ I'm a passionate developer with a keen interest in creating **interactive web ex
 > 
 > A comprehensive university marketplace where students can unfy by sharing and finding educational tools and other requirements.
 > 
-> `JavaScript` `Web Development` `Education Tech` 
+> `JavaScript` `Web Development` 
 
 ### 👋 [Gesture](https://github.com/Smudge049/Gesture)
 > **Interactive Gesture-Based Web Interface**
