@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I am Ankit Sapkota
+# 👋 Hi, Welcome to my GitHub profile 
 
 🎓 Computer Science Student at Kathmandu University 
 
