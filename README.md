@@ -3,6 +3,8 @@
 # 👋 Hi, Welcome to my GitHub profile 
 
 🎓 Computer Science Student at Kathmandu University 
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankit%20Sapkota&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
 [![GitHub followers](https://img.shields.io/github/followers/Smudge049?label=Followers&style=social)](https://github.com/Smudge049)
 [![GitHub stars](https://img.shields.io/github/stars/Smudge049?label=Stars&style=social)](https://github.com/Smudge049)
@@ -78,8 +80,6 @@ I'm a passionate developer with a keen interest in creating **interactive web ex
 
 <div align="center">
   
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankit%20Sapkota&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%F0%9F%9A%80;Gesture+Tech+Explorer+%F0%9F%91%8B;Building+The+Future+%E2%9C%A8" alt="Typing SVG" /></a>
