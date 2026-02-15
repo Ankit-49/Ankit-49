@@ -21,7 +21,7 @@ I'm a passionate developer with a keen interest in creating **interactive web ex
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 <div align="center">
 
