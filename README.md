@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer with a keen interest in creating **interactive web experiences** and exploring cutting-edge technologies. Currently pursuing my studies while building practical projects that bridge the gap between innovation and functionality.
+I'm a passionate developer with a keen interest in creating **interactive web experiences** and exploring cutting-edge technologies. Currently pursuing my studies while building practical projects that bridge the gap between innovation and functionality. 
 
 - 🔭 Currently working on **C2C Marketplace Platform for University Students**
 - 🌱 Learning and mastering the **MERN Stack** (MongoDB, Express, React, Node.js)
