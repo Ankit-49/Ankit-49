@@ -78,7 +78,7 @@ I'm a developer focused on bridging the gap between complex functionality and se
 > 
 > *Key Tech: Next.js 15, Gemini Pro, Framer Motion, KaTeX.*
 
-### 🛒 [Uni-Find](https://github.com/Smudge049/Uni-Find)
+### 🛒 [Uni-Find](https://github.com/Smudge049/Uni_Find_C2C_prototype)
 > **University C2C Marketplace**
 > 
 > A platform for students to find, share, and exchange educational tools and resources within the campus ecosystem.
