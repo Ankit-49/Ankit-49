@@ -18,7 +18,6 @@
 I'm a developer focused on bridging the gap between complex functionality and seamless user experiences. I specialize in **Full-Stack Web Development** and enjoy exploring **Interactive UI** and **AI Integration**.
 
 - 🔭 Currently refining **FlashStudy** - An AI-powered study kit generator.
-- 🌱 Mastering the **Next.js 15 & React 19** ecosystem.
 - 🎯 Goal: Creating tools that empower learners and developers.
 - ⚡ Fun fact: I love experimenting with gesture recognition and data visualization!
 
@@ -46,18 +45,15 @@ I'm a developer focused on bridging the gap between complex functionality and se
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ### ⚙️ Backend & DB
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🧠 AI & Specialized Tools
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Mermaid](https://img.shields.io/badge/Mermaid-FF3E00?style=for-the-badge&logo=mermaid&logoColor=white)
-![KaTeX](https://img.shields.io/badge/KaTeX-323330?style=for-the-badge&logo=katex&logoColor=white)
 
 ### 🔧 Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
