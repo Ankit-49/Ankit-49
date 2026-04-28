@@ -46,10 +46,15 @@ I'm a developer focused on bridging the gap between complex functionality and se
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### 🖥️ Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 ### ⚙️ Backend & DB
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 
 
@@ -75,9 +80,9 @@ I'm a developer focused on bridging the gap between complex functionality and se
 ### 🛒 [Uni-Find](https://github.com/Smudge049/Uni_Find_C2C_prototype)
 > **University C2C Marketplace**
 > 
-> A platform for students to find, share, and exchange educational tools and resources within the campus ecosystem.
+> A C2C marketplace for Kathmandu University students to trade, sell, and buy items within a trusted campus community. Features verified KU-domain authentication, OTP-based password reset, advanced search/filters, and real-time notifications.
 > 
-> *Key Tech: JavaScript, EJS, Node.js, Express.*
+> *Key Tech: React (Vite), Tailwind CSS, Node.js, Express.js, MySQL, JWT, Multer, Nodemailer.*
 
 ### 👋 [Gesture](https://github.com/Smudge049/Gesture)
 > **Gesture-Based Web Interaction**
@@ -85,6 +90,20 @@ I'm a developer focused on bridging the gap between complex functionality and se
 > Exploring the future of UX by implementing hand gesture recognition for contactless web navigation.
 > 
 > *Key Tech: MediaPipe, Canvas API, JavaScript.*
+
+### 🗜️ [Huffman-Encoder](https://github.com/Smudge049/Huffman-Encoder)
+> **File Compression in C**
+> 
+> A lossless file compression and decompression tool implementing the Huffman coding algorithm from scratch.
+> 
+> *Key Tech: C, Huffman Trees, Bitwise I/O.*
+
+### 📚 [DSA Assignment](https://github.com/Smudge049/dsa_assignment)
+> **Data Structures & Algorithms in C**
+> 
+> A collection of C programs covering core DSA concepts — stacks, linked lists, heaps, graphs, and sorting algorithms — each with detailed markdown documentation.
+> 
+> *Key Tech: C, BFS/DFS, Dijkstra's Algorithm, Heap, Sorting.*
 
 ---
 
