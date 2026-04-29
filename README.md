@@ -8,6 +8,9 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Smudge049?label=Followers&style=social)](https://github.com/Smudge049)
 [![GitHub stars](https://img.shields.io/github/stars/Smudge049?label=Stars&style=social)](https://github.com/Smudge049)
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=Smudge049&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
 
 </div>
 
@@ -19,7 +22,7 @@ I'm a developer focused on bridging the gap between complex functionality and se
 
 - 🔭 Currently refining **FlashStudy** - An AI-powered study kit generator.
 - 🎯 Goal: Creating tools that empower learners and developers.
-- ⚡ Fun fact: I love experimenting with gesture recognition and data visualization!
+
 
 ---
 
