@@ -32,9 +32,9 @@ I'm a developer focused on bridging the gap between complex functionality and se
 
 | **GitHub Stats** | **Top Languages** |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=Smudge049&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="Stats" height="180px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smudge049&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="Top Langs" height="180px"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=Ankit-49&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="Stats" height="180px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-49&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="Top Langs" height="180px"/> |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Smudge049&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Streak" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-49&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Streak" width="100%"/>
 
 </div>
 
@@ -73,35 +73,35 @@ I'm a developer focused on bridging the gap between complex functionality and se
 
 ## 🌟 Featured Projects
 
-### 📖 [FlashStudy](https://github.com/Smudge049/flash-study)
+### 📖 [FlashStudy](https://github.com/Ankit-49/flash-study)
 > **AI-Powered Learning Platform**
 > 
 > A premium dashboard for generating study kits from notes/PDFs. Features smart flashcards, automated mind-mapping (Mermaid), and mathematical LaTeX rendering.
 > 
 > *Key Tech: Next.js 15, Gemini Pro, Framer Motion, KaTeX.*
 
-### 🛒 [Uni-Find](https://github.com/Smudge049/Uni_Find_C2C_prototype)
+### 🛒 [Uni-Find](https://github.com/Ankit-49/Uni_Find_C2C_prototype)
 > **University C2C Marketplace**
 > 
 > A C2C marketplace for Kathmandu University students to trade, sell, and buy items within a trusted campus community. Features verified KU-domain authentication, OTP-based password reset, advanced search/filters, and real-time notifications.
 > 
 > *Key Tech: React (Vite), Tailwind CSS, Node.js, Express.js, MySQL, JWT, Multer, Nodemailer.*
 
-### 👋 [Gesture](https://github.com/Smudge049/Gesture)
+### 👋 [Gesture](https://github.com/Ankit-49/Gesture)
 > **Gesture-Based Web Interaction**
 > 
 > Exploring the future of UX by implementing hand gesture recognition for contactless web navigation.
 > 
 > *Key Tech: MediaPipe, Canvas API, JavaScript.*
 
-### 🗜️ [Huffman-Encoder](https://github.com/Smudge049/Huffman-Encoder)
+### 🗜️ [Huffman-Encoder](https://github.com/Ankit-49/Huffman-Encoder)
 > **File Compression in C**
 > 
 > A lossless file compression and decompression tool implementing the Huffman coding algorithm from scratch.
 > 
 > *Key Tech: C, Huffman Trees, Bitwise I/O.*
 
-### 📚 [DSA Assignment](https://github.com/Smudge049/dsa_assignment)
+### 📚 [DSA Assignment](https://github.com/Ankit-49/dsa_assignment)
 > **Data Structures & Algorithms in C**
 > 
 > A collection of C programs covering core DSA concepts — stacks, linked lists, heaps, graphs, and sorting algorithms — each with detailed markdown documentation.
