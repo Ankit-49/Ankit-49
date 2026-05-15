@@ -6,8 +6,8 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=220&section=header&text=Ankit%20Sapkota&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Smudge049?label=Followers&style=social)](https://github.com/Ankit-49)
-[![GitHub stars](https://img.shields.io/github/stars/Smudge049?label=Stars&style=social)](https://github.com/Ankit-49)
+[![GitHub followers](https://img.shields.io/github/followers/Ankit-49?label=Followers&style=social)](https://github.com/Ankit-49)
+[![GitHub stars](https://img.shields.io/github/stars/Ankit-49?label=Stars&style=social)](https://github.com/Ankit-49)
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=Smudge049&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
