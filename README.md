@@ -30,9 +30,7 @@ I'm a developer focused on bridging the gap between complex functionality and se
 
 <div align="center">
 
-| **GitHub Stats** | **Top Languages** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=Ankit-49&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="Stats" height="180px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-49&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="Top Langs" height="180px"/> |
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-49&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Streak" width="100%"/>
 
