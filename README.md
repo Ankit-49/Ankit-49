@@ -99,12 +99,10 @@ I'm a developer focused on bridging the gap between complex functionality and se
 > 
 > *Key Tech: C, Huffman Trees, Bitwise I/O.*
 
-### 📚 [DSA Assignment](https://github.com/Ankit-49/dsa_assignment)
-> **Data Structures & Algorithms in C**
+### 🌐 [Sipsetu](https://sipsetu.pages.dev/)
+> **Featured Web Project**
 > 
-> A collection of C programs covering core DSA concepts — stacks, linked lists, heaps, graphs, and sorting algorithms — each with detailed markdown documentation.
-> 
-> *Key Tech: C, BFS/DFS, Dijkstra's Algorithm, Heap, Sorting.*
+> Visit Sipsetu here: https://sipsetu.pages.dev/
 
 ---
 
